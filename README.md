@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loczek97
-- 👀 I’m interested in coding websites and photography.
+- 👀 I’m interested in web development and photography.
 - 🌱 I’m currently learning how to use TailwindCSS and React.js.
 - 📫 How to reach me a new skills in websites design.
 
