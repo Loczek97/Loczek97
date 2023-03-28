@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Loczek97
 - 👀 I’m interested in coding websites and photography.
-- 🌱 I’m currently learning how to use Bootstrap framework and JavaScript.
-- 💞️ I’m looking to collaborate on little website project.
+- 🌱 I’m currently learning how to use TailwindCSS and React.js.
 - 📫 How to reach me a new skills in websites design.
+
+- Collaboration: GetPet.pl 🐶
+- Main project: easyDo - simple todo-list 📃
 
 <!---
 Loczek97/Loczek97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
