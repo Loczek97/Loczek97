@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to use TailwindCSS and React.js.
 - 📫 How to reach me a new skills in websites design.
 
-- Collaboration: GetPet.pl 🐶
 - Main project: easyDo - simple todo-list 📃
 
 <!---
